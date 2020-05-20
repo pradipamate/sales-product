@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sales-product/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sales-product/static/js/main.8d3ec046.chunk.js",
+    "main.js.map": "/sales-product/static/js/main.8d3ec046.chunk.js.map",
+    "runtime-main.js": "/sales-product/static/js/runtime-main.7402462e.js",
+    "runtime-main.js.map": "/sales-product/static/js/runtime-main.7402462e.js.map",
+    "static/js/2.2d5cb08e.chunk.js": "/sales-product/static/js/2.2d5cb08e.chunk.js",
+    "static/js/2.2d5cb08e.chunk.js.map": "/sales-product/static/js/2.2d5cb08e.chunk.js.map",
+    "index.html": "/sales-product/index.html",
+    "precache-manifest.73381e9913a32e7cb811d8b5f5bd40c5.js": "/sales-product/precache-manifest.73381e9913a32e7cb811d8b5f5bd40c5.js",
+    "service-worker.js": "/sales-product/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sales-product/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2d5cb08e.chunk.js.LICENSE.txt": "/sales-product/static/js/2.2d5cb08e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7402462e.js",
+    "static/js/2.2d5cb08e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8d3ec046.chunk.js"
+  ]
+}
